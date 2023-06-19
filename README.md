@@ -1,1 +1,1 @@
-# ecommerce-project
+# calculator-project
